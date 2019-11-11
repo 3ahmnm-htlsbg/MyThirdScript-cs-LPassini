@@ -1,7 +1,7 @@
 ﻿
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class AddNumbers : MonoBehaviour
 {
    
     void Start()
