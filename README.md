@@ -12,5 +12,5 @@ Windows 10, Unity version 2019.1.14f1, Visual Studio 2017.
 ### Screenshots:
 
 <div>
-<img src = "./Screenshots/home-pic-playmode-mythirdscript-addnumbers-cs-LPassini.jpg" width = "1920">
+<img src = "./Screenshots/home-pic-playmode-mythirdscript-addnumbers-cs-LPassini.jpg" width = "520">
 </div> 
